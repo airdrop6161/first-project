@@ -4,3 +4,7 @@
 
 - Started a simple notes project.
 - Learning how to structure files in a repository.
+## Day 8
+
+- Updated notes with additional learning.
+- Practicing consistent commits.
