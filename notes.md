@@ -8,3 +8,5 @@
 
 - Updated notes with additional learning.
 - Practicing consistent commits.
+- Learning how to edit existing files
+- Practicing daily GitHub activity
