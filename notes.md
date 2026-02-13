@@ -10,3 +10,4 @@
 - Practicing consistent commits.
 - Learning how to edit existing files
 - Practicing daily GitHub activity
+- Editing inside a branch for safe practice
